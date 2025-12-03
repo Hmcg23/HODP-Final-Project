@@ -1,7 +1,5 @@
 # 📱 Exploring the Social Life of the Smartphone Generation
 
-### What impact does digital media usage has on social comfortability and connectivity in young people?
-
 ## 📘 Overview
 
 In this day and age, the presence of technology is continuously prevalent. Motivated by our own experiences with the positives and negatives of media, we sought to examine the impact that digital media usage, operationally defined as mobile phones, social media, and video games, has on social comfortability and connectivity on young people. As this is a global phenomenon, we utilized data collected by a public university in China, studying the relationship between mobile phone addiction and social anxiety, and data collected by researchers in Spain on students who possess and play video games. 
