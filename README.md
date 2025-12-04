@@ -37,4 +37,4 @@ In this day and age, the presence of technology is continuously prevalent. Motiv
 * **Python 3**
 * **Pandas** & **NumPy** – data cleaning and numerical processing
 * **Matplotlib** & **Seaborn** – visualizations
-* **Jupyter Notebook / Deepnote ** – workflow & colllaboration
+* **Jupyter Notebook / Deepnote** – workflow & colllaboration
